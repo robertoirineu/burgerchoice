@@ -1,5 +1,6 @@
 # Burgerchoice
-![dish-on-burgers-2](https://user-images.githubusercontent.com/51807226/213060653-2c7cd6a8-6988-4231-8a8c-e47b72c98319.jpg)
+
+![burger](https://user-images.githubusercontent.com/51807226/213061240-870c6868-f5f4-4015-aeee-de91754933c6.jpg)
 
 ## Vue project 
 This project it's a web site where the clients can mount the burger like they want
